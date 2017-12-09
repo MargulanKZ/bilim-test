@@ -1,90 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8466c15f-b1fd-4f50-a9e2-098eb8de7877" name="Default" comment="Initial">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.env.example" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Console/Commands/Inspire.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Entities/User.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Events/Event.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Requests/Request.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Jobs/Job.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Listeners/.gitkeep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Policies/.gitkeep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/artisan" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/app.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/autoload.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/app.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/auth.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/broadcasting.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/cache.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/compile.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/database.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/filesystems.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/mail.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/queue.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/services.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/session.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/view.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/factories/ModelFactory.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/.gitkeep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2017_12_09_144024_create_lectures_table.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2017_12_09_144942_create_questions_table.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2017_12_09_145110_create_answers_table.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2017_12_09_145403_create_results_table.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/seeds/.gitkeep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/web.config" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/app.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors/503.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/.gitkeep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/server.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/app/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/app/public/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/framework/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/storage/logs/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/ExampleTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/TestCase.php" />
+    <list default="true" id="8466c15f-b1fd-4f50-a9e2-098eb8de7877" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -317,7 +235,7 @@
       <option name="presentableId" value="Default" />
       <updated>1512723082092</updated>
       <workItem from="1512723090270" duration="2143000" />
-      <workItem from="1512829803023" duration="2948000" />
+      <workItem from="1512829803023" duration="3008000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1512723181451</created>
@@ -333,11 +251,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512723222864</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[ADDED] structure">
+      <created>1512832786999</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1512832786999</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5091000" />
+    <option name="totallyTimeSpent" value="5151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -370,8 +295,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="[ADDED] structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADDED] structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -391,6 +318,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
